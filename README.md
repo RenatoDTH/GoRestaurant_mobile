@@ -1,6 +1,15 @@
+<h1 align="center">
+    <img alt="GoBarberLogo" title="GoBarber" src=".github/logoRestaurant.PNG" />
+</h1>
+
 # GoRestaurant_mobile
 
 [Desafio](https://github.com/rocketseat-education/bootcamp-gostack-desafios/tree/master/desafio-react-native-delivery) trazido pela Rocketseat, onde adquirimos uma template pré-definida e dai desenvolvemos as funcionalidades de forma que os testes passem e a aplicação se torne funcional.
+
+<p align="center">
+  <img alt="GoBarber" src=".github/dasboardMobile.PNG" width="25%">
+  <img alt="GoBarber" src=".github/pedidoMobile.PNG" width="25%">
+</p>
 
 ## Dependências
 
